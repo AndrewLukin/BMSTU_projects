@@ -1,2 +1,2 @@
 # BMSTU_projects
-Projects for algoritmic languages lessons
+Projects for "algoritmic languages" labs
