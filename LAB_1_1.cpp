@@ -8,7 +8,7 @@ void main()
 	setlocale(LC_ALL, "rus");
 	int x;
 	double y;
-	cout << "Введите õ=";
+	cout << "Введите x=";
 	cin >> x;
 	if ((x >= -2) && (x <= 4) || (x == 15))
 		printf_s("Введённый х не принадлежит ОДЗ!\n");
